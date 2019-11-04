@@ -261,3 +261,4 @@ SELECT *
 FROM emp
 WHERE job = 'SALESMAN'
    OR empno/100 = 78;
+   
